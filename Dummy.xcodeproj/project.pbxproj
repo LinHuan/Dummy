@@ -13,6 +13,7 @@
 		E04668A71C436004009C8645 /* Dummy.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E04668A51C436004009C8645 /* Dummy.xcdatamodeld */; };
 		E04668A91C436004009C8645 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E04668A81C436004009C8645 /* Assets.xcassets */; };
 		E04668AC1C436004009C8645 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E04668AA1C436004009C8645 /* LaunchScreen.storyboard */; };
+		E04668B41C43602E009C8645 /* EditProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E04668B31C43602E009C8645 /* EditProfileViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E04668A81C436004009C8645 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E04668AB1C436004009C8645 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E04668AD1C436004009C8645 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E04668B31C43602E009C8645 /* EditProfileViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EditProfileViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				E046689E1C436004009C8645 /* AppDelegate.swift */,
 				E04668A01C436004009C8645 /* ViewController.swift */,
+				E04668B31C43602E009C8645 /* EditProfileViewController.swift */,
 				E04668A21C436004009C8645 /* Main.storyboard */,
 				E04668A81C436004009C8645 /* Assets.xcassets */,
 				E04668AA1C436004009C8645 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E04668B41C43602E009C8645 /* EditProfileViewController.swift in Sources */,
 				E04668A11C436004009C8645 /* ViewController.swift in Sources */,
 				E046689F1C436004009C8645 /* AppDelegate.swift in Sources */,
 				E04668A71C436004009C8645 /* Dummy.xcdatamodeld in Sources */,
